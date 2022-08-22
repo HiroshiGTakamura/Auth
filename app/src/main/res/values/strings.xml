@@ -4,5 +4,6 @@
     <string name="succ">Sucesso!</string>
     <string name="texto1">Login</string>
     <string name="texto2">Senha</string>
+    <string name="cada">Não tem conta? Crie uma!</string>
 
 </resources>
